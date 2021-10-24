@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @polex00
-- 👀 I’m interested in everything about technology :D
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything about programming, solving logical and math problems
 - 📫 How to reach me: jovanposta@gmail.com or instagram: polex00 
 
 <!---
